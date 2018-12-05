@@ -1,0 +1,36 @@
+#S {text-align: center;
+    background:  darkslategrey;
+    width: 1000px;
+    margin: 20px auto 0;
+    direction: rtl;
+}
+header {
+    text-align: center;
+    font-size: 50px;
+    color:white;
+}
+body{
+    background-color: dimgrey;
+}
+p {
+    font-size: 30px;
+    color: white;
+}
+#number {
+    height:auto; float: right;; margin:20px;
+    font-size: 35px;
+    text-align: right;
+    color: white;
+}
+#number1 {
+    
+    text-align: right;
+    color: white;
+    margin-right: 460px;
+}
+#number2 {
+    font-size: 35px;
+    color: white;
+    text-align: right;
+    margin-right: 50px;
+}
